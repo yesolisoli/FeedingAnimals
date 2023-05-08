@@ -1,8 +1,8 @@
 Library/
 Logs/
 obj/
+Temp/
 
 .vsconfig
 Assembly-CSharp.csproj
 FeedingAnimals.sln
-Temp
