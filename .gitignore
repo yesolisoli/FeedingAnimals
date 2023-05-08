@@ -3,6 +3,7 @@ Logs/
 obj/
 Temp/
 
+.DS_Store
 .vsconfig
 Assembly-CSharp.csproj
 FeedingAnimals.sln
